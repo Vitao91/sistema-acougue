@@ -4,8 +4,10 @@ Sistema em **Java** com interface gráfica **Swing**, arquitetura em camadas (**
 
 ## 📸 Demonstração do Sistema
 <img width="1133" height="742" alt="Captura de tela 2026-10-18 182546" src="https://github.com/user-attachments/assets/5eeafb14-a256-4a37-8cfd-7f05f6af1e44" />
-<img width="441" height="372" alt="Captura de tela 2026-10-18 182631" src="https://github.com/user-attachments/assets/da90cdc2-0322-49db-bac8-5dfe36df2075" />
 <img width="1108" height="767" alt="Captura de tela 2026-10-18 182611" src="https://github.com/user-attachments/assets/27a494b6-0b53-4a09-9fc7-23a0eea18930" />
+<img width="441" height="372" alt="Captura de tela 2026-10-18 182631" src="https://github.com/user-attachments/assets/da90cdc2-0322-49db-bac8-5dfe36df2075" />
+
+---
 
 ## 🚀 Funcionalidades
 
